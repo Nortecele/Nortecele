@@ -4,7 +4,7 @@ Hi 👋 My name is Julian Fremont
 Full Stack Developer
 --------------------
 
-I am a 20 years old student who is passionate about web and mobile application programming since 4 years. I'm studying at Epitech - Paris for a Computer Expert diploma.
+I am a 20 years old student who is passionate about web and mobile application programming since 5 years. I'm studying at Epitech - Paris for a Computer Expert diploma.
 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [Personal Website](http://julianfremont.best)
